@@ -1,3 +1,4 @@
+// SmartRide — Helmet Safety Node
 #include "BluetoothSerial.h"
 BluetoothSerial SerialBT;
 // Replace with your server MAC
